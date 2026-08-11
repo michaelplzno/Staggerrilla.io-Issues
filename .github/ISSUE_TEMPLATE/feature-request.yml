@@ -1,0 +1,64 @@
+name: Feature suggestion
+description: Propose a game, stream, store, or community improvement
+title: "[Suggestion]: "
+labels:
+  - enhancement
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggestions are welcome, but they are not commitments or votes. The project owners decide what fits Staggerrilla.io and what gets made.
+  - type: input
+    id: idea
+    attributes:
+      label: What is the suggestion?
+      description: Describe the idea in one sentence.
+      placeholder: Add a way for viewers to...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem or opportunity does it address?
+      description: Tell us why this would improve the viewer, player, streamer, or operator experience.
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: How should it work?
+      description: Describe the player-facing result. Technical implementation is optional.
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Which part of Staggerrilla.io?
+      options:
+        - Live Bleep game
+        - Twitch chat commands
+        - Bubber economy or cash-out
+        - Redeem store
+        - Leaderboards
+        - Stream celebration or visuals
+        - Admin/operator tools
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: tradeoffs
+    attributes:
+      label: Risks, tradeoffs, or alternatives
+      description: Optional. What could go wrong, or is there a simpler version?
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission agreement
+      options:
+        - label: I searched the existing issues and did not find this same suggestion.
+          required: true
+        - label: I have the right to share everything in this submission.
+          required: true
+        - label: I have read and agree to the [Staggerrilla.io Suggestion Terms](https://github.com/michaelplzno/Staggerrilla.io-Issues/blob/main/SUGGESTION_TERMS.md), including the project owners' sole discretion and permanent rights to use, modify, and commercialize submissions without obligation, payment, or attribution.
+          required: true
