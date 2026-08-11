@@ -1,0 +1,77 @@
+name: Bug report
+description: Tell us about something that is not working on Staggerrilla.io
+title: "[Bug]: "
+labels:
+  - bug
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Staggerrilla.io. Please do not include Steam keys, passwords, tokens, or private account information.
+  - type: input
+    id: summary
+    attributes:
+      label: What went wrong?
+      description: Give us a short, specific summary.
+      placeholder: The redeem button stays disabled after...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do immediately before the problem appeared?
+      placeholder: |
+        1. Signed in with Twitch
+        2. Opened...
+        3. Clicked...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What actually happened?
+    validations:
+      required: true
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where did this happen?
+      options:
+        - Main game page / Bleep Remote
+        - Twitch chat command
+        - Redeem store
+        - Stream or OBS game display
+        - Admin/operator panel
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser or device
+      description: Optional, but useful for visual or interaction problems.
+      placeholder: Chrome on Windows 11, iPhone Safari, Twitch mobile...
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or additional context
+      description: Remove private information before attaching anything.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Submission agreement
+      options:
+        - label: I searched the existing issues and did not find this same report.
+          required: true
+        - label: I have not included Steam keys, passwords, tokens, or private account data.
+          required: true
+        - label: I have read and agree to the [Staggerrilla.io Suggestion Terms](https://github.com/michaelplzno/Staggerrilla.io-Issues/blob/main/SUGGESTION_TERMS.md), including the project owners' discretion and rights to use submissions without obligation, payment, or attribution.
+          required: true
