@@ -18,7 +18,7 @@ The production code remains private. This repository exists so anyone with a Git
 
 ## Project-owner discretion
 
-Issues are proposals, not commitments or a public roadmap. The Staggerrilla.io project owners decide, in their sole discretion, what is investigated, designed, built, changed, postponed, rejected, or removed. An issue may be closed for any reason, including scope, safety, cost, technical fit, creative direction, duplication, or lack of current interest.
+Issues are proposals, not commitments or a public roadmap. Staggerrilla / Silverware Games decides, in its sole discretion, what is investigated, designed, built, changed, postponed, rejected, or removed. An issue may be closed for any reason, including scope, safety, cost, technical fit, creative direction, duplication, or lack of current interest.
 
 Submitting an idea does not create a promise of implementation, compensation, credit, employment, partnership, or continued discussion.
 
@@ -28,8 +28,8 @@ Before submitting, read the [Suggestion Terms](SUGGESTION_TERMS.md). In short:
 
 - You must have the right to share what you submit.
 - Your submission is not confidential.
-- You grant the project owners permanent, worldwide, royalty-free rights to use, change, combine, publish, distribute, and commercialize it.
-- The project owners own the code, designs, assets, documentation, and other implementation they create.
+- You grant Staggerrilla / Silverware Games permanent, worldwide, royalty-free rights to use, change, combine, publish, distribute, and commercialize it.
+- Staggerrilla / Silverware Games owns the code, designs, assets, documentation, and other implementation they create.
 - No payment, attribution, or implementation is required.
 
-GitHub's terms state that users retain ownership of the content they post. These additional Suggestion Terms give the Staggerrilla.io project owners the broad permissions needed to use submissions while respecting that platform rule.
+GitHub's terms state that users retain ownership of the content they post. These additional Suggestion Terms give Staggerrilla / Silverware Games the broad permissions needed to use submissions while respecting that platform rule.
