@@ -28,8 +28,10 @@ Before submitting, read the [Suggestion Terms](SUGGESTION_TERMS.md). In short:
 
 - You must have the right to share what you submit.
 - Your submission is not confidential.
-- You grant Staggerrilla / Silverware Games permanent, worldwide, royalty-free rights to use, change, combine, publish, distribute, and commercialize it.
-- Staggerrilla / Silverware Games owns the code, designs, assets, documentation, and other implementation they create.
+- You retain ownership of your original issue text, while granting Staggerrilla / Silverware Games a permanent, worldwide, royalty-free commercial license to use, change, combine, publish, distribute, and commercialize the submission.
+- Staggerrilla / Silverware Games owns the code, designs, assets, documentation, and other implementation it creates.
+
+**In plain English: you own your original post; Staggerrilla / Silverware Games gets the license to use the submission and owns the implementation it creates.**
 - No payment, attribution, or implementation is required.
 
 GitHub's terms state that users retain ownership of the content they post. These additional Suggestion Terms give Staggerrilla / Silverware Games the broad permissions needed to use submissions while respecting that platform rule.
