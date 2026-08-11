@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Suggestions are welcome, but they are not commitments or votes. The project owners decide what fits Staggerrilla.io and what gets made.
+        Suggestions are welcome, but they are not commitments or votes. Staggerrilla / Silverware Games decides what fits Staggerrilla.io and what gets made.
   - type: input
     id: idea
     attributes:
@@ -60,5 +60,5 @@ body:
           required: true
         - label: I have the right to share everything in this submission.
           required: true
-        - label: I have read and agree to the [Staggerrilla.io Suggestion Terms](https://github.com/michaelplzno/Staggerrilla.io-Issues/blob/main/SUGGESTION_TERMS.md), including the project owners' sole discretion and permanent rights to use, modify, and commercialize submissions without obligation, payment, or attribution.
+        - label: I have read and agree to the [Staggerrilla.io Suggestion Terms](https://github.com/michaelplzno/Staggerrilla.io-Issues/blob/main/SUGGESTION_TERMS.md), including Staggerrilla / Silverware Games' sole discretion and permanent rights to use, modify, and commercialize submissions without obligation, payment, or attribution.
           required: true
