@@ -73,5 +73,5 @@ body:
           required: true
         - label: I have not included Steam keys, passwords, tokens, or private account data.
           required: true
-        - label: I have read and agree to the [Staggerrilla.io Suggestion Terms](https://github.com/michaelplzno/Staggerrilla.io-Issues/blob/main/SUGGESTION_TERMS.md), including the project owners' discretion and rights to use submissions without obligation, payment, or attribution.
+        - label: I have read and agree to the [Staggerrilla.io Suggestion Terms](https://github.com/michaelplzno/Staggerrilla.io-Issues/blob/main/SUGGESTION_TERMS.md), including Staggerrilla / Silverware Games' discretion and rights to use submissions without obligation, payment, or attribution.
           required: true
