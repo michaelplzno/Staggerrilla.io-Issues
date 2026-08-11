@@ -1,5 +1,7 @@
 # Staggerrilla.io — Public Issues & Suggestions
 
+![A friendly arcade suggestion box disguised as a cheeky trash bin](assets/suggestion-box-social.jpg)
+
 This is the public issue tracker and suggestion board for [Staggerrilla.io](https://staggerrilla.io), the Twitch-controlled live Bleep game.
 
 The production code remains private. This repository exists so anyone with a GitHub account can report a problem or suggest an improvement.
